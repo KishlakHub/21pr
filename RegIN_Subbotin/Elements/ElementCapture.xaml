@@ -10,6 +10,6 @@
         <Grid x:Name="Capture" Height="50" VerticalAlignment="Top"/>
         <Label Content="Enter capture:" Margin="0,50,0,0" VerticalAlignment="Top"/>
         <TextBox x:Name="InputCapture" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" 
-             Height="25" VerticalAlignment="Top" Margin="0,75,0,0" KeyUp="EnterCapture"/>
+              Height="25" VerticalAlignment="Top" Margin="0,75,0,0" KeyUp="EnterCapture"/>
     </Grid>
 </UserControl>
