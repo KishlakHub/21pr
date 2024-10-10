@@ -31,7 +31,7 @@ namespace RegIN_Subbotin.Pages
         bool BCorrectPassword = false;
         bool BCorrectConfirmPassword = false;
         bool BSetImages = false;
-        public Regin()
+        public Regin() 
         {
             InitializeComponent();
             MainWindow.mainWindow.UserLogIn.HandlerCorrectLogin += CorrectLogin;
